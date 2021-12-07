@@ -8,6 +8,7 @@ namespace BitventureCodingTestProject
     {
         static void Main(string[] args)
         {
+
             ServiceProcessor serviceProcessor = new ServiceProcessor();
 
             var file = ConfigurationManager.AppSettings["jFile"];
