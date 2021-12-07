@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitventureCodingTestProject", "BitventureCodingTestProject\BitventureCodingTestProject.csproj", "{2A7E4A58-D795-4679-8EC6-51B370A66BD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitventureCodingTestProject.Tests", "BitventureCodingTestProject.Tests\BitventureCodingTestProject.Tests.csproj", "{D9BADAE5-5082-4726-BCAD-948CC51165F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A7E4A58-D795-4679-8EC6-51B370A66BD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A7E4A58-D795-4679-8EC6-51B370A66BD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A7E4A58-D795-4679-8EC6-51B370A66BD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A7E4A58-D795-4679-8EC6-51B370A66BD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9BADAE5-5082-4726-BCAD-948CC51165F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9BADAE5-5082-4726-BCAD-948CC51165F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9BADAE5-5082-4726-BCAD-948CC51165F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9BADAE5-5082-4726-BCAD-948CC51165F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6DD7A315-4EA4-4335-B4E7-32C67C4BBEF5}
+	EndGlobalSection
+EndGlobal
